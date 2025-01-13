@@ -1,1 +1,2 @@
-# Tic-Tac-Toe-Game
+# Tic-Tac-Toe Game
+A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. This classic two-player game allows users to take turns marking Xs and Os on a 3x3 grid, aiming to align three symbols horizontally, vertically, or diagonally. The game includes a responsive design, intuitive interface, and logic to declare the winner or a draw. Perfect for a quick and fun experience!
